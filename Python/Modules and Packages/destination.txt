@@ -1,0 +1,2 @@
+hello i am the matin ali i have started the gen ai course
+we looking over the shutil library in python
